@@ -1,2 +1,2 @@
-# GamesOnCss
-Games only on Css try(:
+# GameOnCss
+Game only on Css try(:
